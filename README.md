@@ -1,4 +1,4 @@
-# Face Recognition Brain API- v1
+# Face Recognition Brain API - v1
 
 1. Clone this repo
 2. Run npm install
